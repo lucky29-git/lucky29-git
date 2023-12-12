@@ -54,7 +54,7 @@ Hi, I'm Chandrashekhar Choudha, a Web Developer 🚀 and Cloud ☁️ enthusiast
 
 
 <br/>
- <p align="left">
-   <img src="https://komarev.com/ghpvc/?username=lucky29-git&label=Visitors &color=0e75b6&style=flat" alt="lucky29-git/visitors" /> 
- </p>
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucky29-git&label=Profile%20views&color=0e75b6&style=flat" alt="lucky29-git" /> </p>
+
 
